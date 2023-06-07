@@ -55,8 +55,7 @@
     - [ ] b) Lze to zakázat
     - [ ] c) Ne
 
-[^](#Overview)
-### HTML II
+### [^](#Overview)HTML II
 1. Jakou rodinu protokolů používá internet?
 
     - [ ] a) IP/TPC
@@ -92,8 +91,7 @@
     - [ ] d) Přímé editory HTML
     - [x] e) WYSIWYG editory
 
-[^](#Overview)
-### HTML III
+### [^](#Overview)HTML III
 
 1. Co bývá součástí webhostingových služeb? (uveďte alespoň 3 služby)
 
@@ -131,8 +129,7 @@
     - [ ] c) 1
     - [ ] d) 2
 
-[^](#Overview)
-### CSS I
+### [^](#Overview)CSS I
 1. Napište příklad nebo vysvětlete co je to pseudotřída:
 
     ```
@@ -183,8 +180,7 @@
       - [ ] c) černou
       - [ ] d) zelenou
 
-[^](#Overview)
-### CSS II
+### [^](#Overview)CSS II
 1. Vyberte správnou hodnotu vlastnosti text-decoration:
 
     - [x] a) none
