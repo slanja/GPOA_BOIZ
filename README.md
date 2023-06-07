@@ -1,4 +1,4 @@
-This is collection of notes from original file boyz from onenote. So I want to thank my friends for collecting all of this, thank you.
+This is collection of notes from original file "boys" from onenote. So I want to thank my friends for collecting all of this, thank you.
 
 
 ### IT Subjects
