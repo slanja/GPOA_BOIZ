@@ -200,8 +200,8 @@
     ```
 
 3. Napište text "Toto je nadpis kapitoly" nadpisem nejvyšší úrovně a doplňte CSS kód přímo k tagu a to s těmito vlastnostmi:
-- zarovnání na střed
-- a fontem Tahoma
+    - zarovnání na střed
+    - a fontem Tahoma
     
     ```css
     <h1 style="text-align: center; font-family: tahoma">Toto je nadpis kapitoly</h1>
