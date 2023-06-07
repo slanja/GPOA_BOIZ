@@ -7,7 +7,7 @@ This is collection of notes from original file "boys" from onenote. So I want to
   <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/IT_SUBJECTS/WEB_TESTS.md">WEB_TESTS</a>
 </details>
 
-### ETC
+### ET CETERA
 <details>
 <summary>ČEJ</summary>
   <a href="">LITERATURE</a>
