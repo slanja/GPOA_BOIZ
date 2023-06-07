@@ -10,5 +10,5 @@ This is collection of notes from original file "boys" from onenote. So I want to
 ### ET CETERA
 <details>
 <summary>ČEJ</summary>
-  <a href="">LITERATURE</a>
+  <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/ET_CETERA/LITERATURE.md">LITERATURE</a>
 </details>
