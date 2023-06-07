@@ -4,6 +4,8 @@
 - [HTML I](#HTML-I)
 - [HTML II](#HTML-II)
 - [HTML III](#HTML-III)
+- [CSS I](#CSS-I)
+- [CSS II](#CSS-II)
 
 [^](#Overview)
 ### HTML I
@@ -143,3 +145,85 @@
     - [ ] b) &lt;p>Tento text bude modrý.<style="font-style: italic; font-weight: bold; color: blue"</p>
     - [ ] c) &lt;p style="font style: italic, font weight: bold; color: blue">Tento odstavec bude modrý.</p>
     - [ ] d) &lt;p text-style="font-style: italic; font-weight: bold; color: blue">Tento odstavec bude modrý.</p>
+
+3. Napište jakými způsoby můžeme deklarovat (zapsat, použít) CSS?
+
+    ```
+    do hlavičky
+    do tagů: &lt;p style="color: black">Text</p>
+    do externího dokumentu, který se potom musí zmínit v html dokumentu
+    ```
+    
+4. Jak se prohlížeč chová v CSS k hodnotám, které nezná?
+
+    ```
+    ignoruje je
+    ```
+ 
+5. Jak se v CSS tvoří komentáře?
+
+    ```
+    /* komentář */
+    ```
+    
+6. Podívejte se důkladně na následující kód:
+    ```CSS
+    <style type="text/css">
+        a {text-decoration: none}
+        a:link {color: green}
+        a:visited {color: navy}
+        a:active {color: black}
+        a:hover {color: red; text-decoration: underline}
+    </style>
+    ```
+    Jakou barvu bude mít odkaz po "najetí" myši?
+
+      - [ ] a) modrou
+      - [x] b) červenou
+      - [ ] c) černou
+      - [ ] d) zelenou
+
+[^](#Overview)
+### CSS II
+1. Vyberte správnou hodnotu vlastnosti text-decoration:
+
+    - [x] a) none
+    - [ ] b) normal
+    - [ ] c) capitalize
+    - [ ] d) bold
+    - [ ] e) left
+
+2. K čemu se vztahuje nebo co ovlivní následující styl a konkrétně přesně jak? border: `1px solid blue`
+
+    ```
+    ohraničí element modrým, 1px, nepřerušovaným ohraničením
+    ```
+
+3. Napište text "Toto je nadpis kapitoly" nadpisem nejvyšší úrovně a doplňte CSS kód přímo k tagu a to s těmito vlastnostmi:
+- zarovnání na střed
+- a fontem Tahoma
+    
+    ```css
+    <h1 style="text-align: center; font-family: tahoma">Toto je nadpis kapitoly</h1>
+    ```
+
+4. Okraje v CSS obecně mají základní dvě vlastnosti. Které?
+
+    ```
+    margin
+    padding
+    ```
+
+5. Vyberte k jednotlivým vlastnostem stylu FONT správný význam či hodnotu:
+
+    font-style ```např. kurzíva```
+    font-family ```např. Arial CE```
+    font-size ```např. small```
+    font-weight ```např. tučné```
+    font-variant ```např. kapitálky```
+
+6. Přiřaďte správně význam k následujícím vlastnostem:
+
+    font variant ```kapitálky```
+    margin ```vnější okraj```
+    padding ```vnitřní okraj```
