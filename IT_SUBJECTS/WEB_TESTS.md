@@ -6,6 +6,7 @@
 - [HTML III](#HTML-III)
 - [CSS I](#CSS-I)
 - [CSS II](#CSS-II)
+- [CSS III](#CSS-III)
 
 
 ### [^](#Overview)HTML I
@@ -223,3 +224,19 @@
     - font variant ```kapitálky```
     - margin ```vnější okraj```
     - padding ```vnitřní okraj```
+
+### [^](#Overview)CSS III
+1. Vyberte k jednotlivým vlastnostem stylu SEZNAMY správný význam či hodnotu
+
+    - list-style-type ```např. circle```
+    - list-style-image ```obrázková odrážka```
+    - list-style-position ```např. inside```
+ 
+ 2. Vyberte k jednotlivým vlastnostem stylu BARVY A POZADÍ správný význam či hodnotu:
+
+    - background-image ```obrázek na pozadí```
+    - color ```barva písma```
+    - background-position ```např. left```
+    - background-attachment ```např. fixed```
+    - background-repeat ```repeat-x```
+    - background-color ```barva pozadí```
