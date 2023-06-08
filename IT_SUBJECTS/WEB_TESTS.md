@@ -73,9 +73,9 @@
     
 3. Jak se v HTML tvoří poznámky? (zapište přesně)
 
-  ```
-  <!--poznámka--->
-  ```  
+    ```
+    <!--poznámka--->
+    ```  
   
 4. HTML soubor je text obalený značkami, které se nazývají (doplňte) a dělíme je na (doplňte)
 
