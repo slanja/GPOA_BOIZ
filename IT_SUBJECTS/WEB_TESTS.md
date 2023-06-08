@@ -240,3 +240,28 @@
     - background-attachment ```např. fixed```
     - background-repeat ```repeat-x```
     - background-color ```barva pozadí```
+
+3. Vytvořte zjednodušený HTML kód, který bude obsahovat jen odstavec s textem "Toto je červený tučný text." tak, aby byl červený, tučný a to pomocí CSS kódu, který je zapsán v hlavičce dokumentu. V hlavičce nemusí být nic dalšího.
+
+    ```html
+    <html>
+        <head>
+            <style>
+                p {
+                    font-weight: bold; 
+                    color: red;
+                }
+            </style>
+        </head>
+        <body>
+            <p>Toto je červený tučný text</p>
+        </body>
+    </html>
+    ```
+    
+4. Vyberte k jednotlivým vlastnostem stylu TEXT správný význam či hodnotu:
+
+    - text-decoration ```např. podtržení```
+    - text-align ```např. vpravo```
+    - text-transform ```např. všechna velká písmena```
+    - text-indent ```odsazení prvního řádku```
