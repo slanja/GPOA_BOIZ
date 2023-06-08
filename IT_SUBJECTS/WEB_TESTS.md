@@ -66,10 +66,10 @@
 
 2. Vyberte jen správné odpovědi u otázek, týkajících se obecné syntaxe HTML
 
-    Tagy, které prohlížeč nezná, jako by nebyly. ```Ano```
-    V adresách a jménech souborů nezáleží na velikosti písmen, smějí tam být mezery a čeština. ```Ne```
-    Nezáleží na velikosti písem, např. "body" je totéž co "BODY". ```Ano```
-    Dvě mezery po sobě (nebo víc) mají stejný význam jako jedna mezera. ```Ano```
+    - Tagy, které prohlížeč nezná, jako by nebyly. ```Ano```
+    - V adresách a jménech souborů nezáleží na velikosti písmen, smějí tam být mezery a čeština. ```Ne```
+    - Nezáleží na velikosti písem, např. "body" je totéž co "BODY". ```Ano```
+    - Dvě mezery po sobě (nebo víc) mají stejný význam jako jedna mezera. ```Ano```
     
 3. Jak se v HTML tvoří poznámky? (zapište přesně)
 
