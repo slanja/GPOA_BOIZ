@@ -212,14 +212,14 @@
 
 5. Vyberte k jednotlivým vlastnostem stylu FONT správný význam či hodnotu:
 
-    font-style ```např. kurzíva```
-    font-family ```např. Arial CE```
-    font-size ```např. small```
-    font-weight ```např. tučné```
-    font-variant ```např. kapitálky```
+    - font-style ```např. kurzíva```
+    - font-family ```např. Arial CE```
+    - font-size ```např. small```
+    - font-weight ```např. tučné```
+    - font-variant ```např. kapitálky```
 
 6. Přiřaďte správně význam k následujícím vlastnostem:
 
-    font variant ```kapitálky```
-    margin ```vnější okraj```
-    padding ```vnitřní okraj```
+    - font variant ```kapitálky```
+    - margin ```vnější okraj```
+    - padding ```vnitřní okraj```
