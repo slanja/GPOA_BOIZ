@@ -7,6 +7,8 @@
 - [CSS I](#CSS-I)
 - [CSS II](#CSS-II)
 - [CSS III](#CSS-III)
+- [HTML + CSS](#HTML-CSS)
+- [PHP I](#PHP-I)
 
 
 ### [^](#Overview)HTML I
@@ -265,3 +267,120 @@
     - text-align ```např. vpravo```
     - text-transform ```např. všechna velká písmena```
     - text-indent ```odsazení prvního řádku```
+
+### [^](#Overview)HTML + CSS
+1. Projděte si zdrojový kód a napište, ve kterých řádcích je chyba nebo kde něco chybí a přesně napište co:
+
+    ```css
+    #header {
+        background: #FE7B09 url("foto.jpg") repeat-x;
+        hieght: 215px;
+    }
+
+    #header hl {
+        font-size: 30px;
+        padding: 22px Opx 5px lOpx;
+    }
+
+    theader hl a {
+        color: #000;
+        text decoration: none;
+    }
+
+    #header hl a:hover {
+        color: #000;
+        text-decoration: underline;
+    }
+
+    #header h2 {
+        color: #eee;
+        font-size: 19 px;
+        padding: 0 0 0 llpx;
+        line-height: 12px;
+    }
+    ```
+    
+    ```
+    řádek 3: height: 215px;
+    řádek 11: text-decoration: none;
+    řádek: 19: font-size: 19px;
+    ```
+    
+2. Ze tří následujících zdrojových kódů varianta A až C vyberte ten, který odpovídá vykreslení webové stránky na obrázku:
+
+    - [x] a) varianta A
+    - [ ] b) varianta B
+    - [ ] c) varianta C
+    
+3. Následující zdrojový kód bude vykreslovat jednu z uvedených tří možností. Která to je? (vyberte správnou variantu obrázku)
+
+    - [ ] a) varianta A
+    - [ ] b) varianta B
+    - [x] c) varianta C
+
+
+### [^](#Overview)PHP I
+1. V PHP se komentář dá vytvořit tímto způsobem:
+
+	- [x] a) # komentář na jeden řádek
+	- [ ] b) */ komentář na jeden řádek /*
+	- [ ] c) &lt;!-- komentář na více řádků -->
+	- [ ] d) &lt;!-- komentář na jeden řádek -->
+	- [x] e) // komentář na jeden řádek
+	- [x] f) /* komentář na více řádků */
+
+2. PHP můžeme do webových stránek zapsat několika způsoby. Vyberte jen ty správné:
+	
+	- [ ] a) &lt;%php echo 'Nějaký libovolný text;%>
+	- [ ] b) &lt;style language="php"> echo 'Nějaký libovolný text;</style>
+	- [x] c) &lt;?echo 'Nějaký libovolný text;?>
+	- [ ] d) &lt;?echo 'Nějaký libovolný text;>
+	- [ ] e) &lt;?echo 'Nějaký libovolný text;php?>
+	- [x] f) &lt;?php echo 'Nějaký libovolný text';?>
+	- [x] g) &lt;% echo 'Nějaký libovolný text';%>
+	- [x] h) &lt;script language="php"> echo 'Nějaký libovolný text';</script>
+
+3. Syntaxe jazyka je inspirována několika programovacími jazyky. Jakými např.?
+	
+	- [ ] a) JavaScript
+	- [ ] b) C#
+	- [ ] c) Oracle
+	- [x] d) Java
+	- [x] e) C
+	- [x] f) Pascal
+
+4. Vyberte správné odpovědi o charakteristice PHP:
+	
+	- [ ] a) Jedná se o programovací jazyk, běžící na straně klienta.
+	- [x] b) Jedná se o interpretovaný jazyk
+	- [x] c) Jedná se o programovací jazyk, běžící na straně serveru.
+	- [ ] d) Jedná se o kompilovaný jazyk
+	- [x] e) Záleží na velikosti písmen
+	- [ ] f) Jedná se o programovací jazyk závislý na platformě.
+
+5. PHP podporuje přístup k většině databázových systémů. Které to např. jsou? (vyberte jen správné odpovědi)
+	
+	- [ ] a) IMAP
+	- [x] b) PostgreSQL
+	- [x] c) MSSQL
+	- [x] d) Oracle
+	- [ ] e) FTP
+	- [x] f) MySQL
+	- [ ] g) SMTP
+	- [ ] h) LDAP
+
+6. Co potřebujeme pro editaci a tvorbu PHP souboru? Jaký program, software nebo aplikaci?
+
+	- [ ] a) Jakýkoliv textový editor a operační systém Windows
+	- [x] b) Jakýkoliv textový editor.
+	- [ ] c) Jakýkoliv textový editor a FTP klienta
+	- [ ] d) Speciální textový editor pro tvorbu a editaci PHP
+	
+7. Co je bezpodmíněčně nutné mít minimálně nainstalováno na počítači, který není připojen k internetu pro běh a testování PHP skriptů?
+
+	- [x] a) Samotné PHP
+	- [ ] b) Databázi MySQL
+	- [ ] c) FTP klienta, např. FileZilla
+	- [ ] d) Operační systém Windows
+	- [ ] e) Základní sadu Microsoft Office nebo podobnou
+	- [x] f) Webový server, např. Apache
