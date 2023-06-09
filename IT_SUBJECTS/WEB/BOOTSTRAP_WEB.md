@@ -98,7 +98,7 @@ CSS
 }
 ```
 
-FILES
+FILES (carousel images and favicon)
 ```
 https://www.mediafire.com/folder/lwjm36eu2ozjd/images
 ```
