@@ -5,6 +5,7 @@ This is collection of notes from original file "boys" from onenote. So I want to
 <details>
 <summary>WEB</summary>
   - <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/IT_SUBJECTS/WEB/WEB_TESTS.md">WEB_TESTS</a>
+  - <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/IT_SUBJECTS/WEB/BOOTSTRAP_WEB.md">BOOTSTRAP_WEB</a>
 </details>
 
 <details>
