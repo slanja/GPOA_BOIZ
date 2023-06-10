@@ -1,9 +1,9 @@
 [<--- Back](https://github.com/slanja/GPOA_BOYZ/blob/main/README.md)
 
 ## Overview
-- [BOOTSTRAP WEB PART I](#BOOTSTRAP_WEB_PART_I)
+- [BOOTSTRAP WEB I PART I](#BOOTSTRAP_WEB_I_PART_I)
 
-## [^](#Overview)BOOTSTRAP WEB PART I
+## [^](#Overview)BOOTSTRAP WEB I PART I
 <p align="center">
     <img src="images/bootstrap_web_I_part_I.png" width="700px">
 </p>
