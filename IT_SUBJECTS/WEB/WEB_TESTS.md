@@ -9,6 +9,7 @@
 - [CSS III](#CSS-III)
 - [HTML + CSS](#HTML-CSS)
 - [PHP I](#PHP-I)
+- [PHP II](#PHP-II)
 
 
 ### [^](#Overview)HTML I
@@ -384,3 +385,110 @@
 	- [ ] d) Operační systém Windows
 	- [ ] e) Základní sadu Microsoft Office nebo podobnou
 	- [x] f) Webový server, např. Apache
+
+### [^](#Overview)PHP II
+1. Spojte správně definice datových typů
+
+	- kladné a záporné celočíselné hodnoty. Rozsah hodnot závisí na platformě, kde PHP běží, obvykle se hodnota pohybuje někde okolo dvou miliard (32-bit signed). `integer`
+	- zdroje jsou speciální typy, které vytváří funkce v PHP a které odkazují na vnější zdroje. Pokud např. potřebujeme otevřít soubor(fopen), pak funkce vrací prostředek, který slouží k výběru zadáneho souboru. `resource`
+	- objektová proměná může obsahovat různé prvky PHP, např. proměnné, funkce a konstanty. `object`
+	- hodnota proměnné může nabývat buď hodnoty TRUE nebo FALSE `boolean`
+	- řetězce jsou v PHP kódovány 1 bajtem, takže mohou obsahovat 256 znaků. `string`
+	- jedná se o složený typ, který může obsahovat i ostatní datové typy. `array`
+	- hodnota s plovoucí desetinnou čárkou. Rozsah tohoto typu proměnné také závisí na platformě, kde PHP běží obvykle je k dispozici 1,8e308 hodnot (64-bit signed). `float`
+	- jedná se o zvláštní datový typ, který nemá žádnou hodnotu. Hodí se třeba tehdy, pokud není nějaká proměnná inicializována nebo pokud byla smazána funkcí unset(). Je samozřejmě možné libovolné proměnné přiřadit hodnotu null dodatečně. `null`
+
+2. Který příkaz nebo funkce vypíše v prohlížeči toto: `string(4) "Ahoj"`
+
+	- [ ] a) ani jeden. Jedná se o chybu.
+	- [x] b) var_dump
+	- [ ] c) print_r
+	- [ ] d) echo
+
+3. Co vypíše prohlížeč?
+	```php
+	<?php
+		echo "Tento text obsahuje lomeno / a uvozovky \".";
+	?>
+	```
+
+	- [ ] a) Tento text obsahuje lomeno / a uvozovky.
+	- [ ] b) Tento text obsahuje lomeno a uvozovky ".
+	- [x] c) Tento text obsahuje lomeno / a uvozovky ".
+	- [ ] d) Tento text obsahuje lomeno // a uvozovky ".
+	- [ ] e) Nic. V kódu je chyba.
+
+4. Co je to v PHP řetězec?
+
+	- [ ] a) Jsou to čísla, která spolu navzájem něják souvisí. Proto značíme symbolem řetězu.
+	- [x] b) Je to jakýkoliv text včetně čísel nebo zvláštních znaků.
+	- [ ] c) Jsou to speciální znaky, které spolu nějakým způsobem souvisí. Proto značíme symbolem řetězu.
+	- [ ] d) Je to jakýkoliv text mimo čísel a zvláštních znaků.
+
+5. Přiřaďte k sobě správné definice a slova týkající se textových řetězců v PHP:
+
+	- Zjištění délky řetězce `strlen`
+	- Získání části řetězce `substr`
+	- Odstranění bilých mezer `trim`
+	- Nahrazení textového řetězce `str_replace`
+	- Zjištění pozice textu `strpos`
+
+6. Vyberte pouze ty definice a pojmy, které jsou správné:
+
+	- [x] a) **Echo** je příkaz, který je nejčastější metoda pro výpis dat. Dobře postačí na jednoduché datové typy a to čísla a řetězce.
+	- [ ] b) Prohlížeč po zadání skriptu **var_dump("Adam")** vypíše boolean(4) "Adam".
+	- [ ] c) Prohlížeč po zadání skriptu **var_dump("Adam")** vypíše text(4) "Adam".
+	- [x] d) **Print_r** je funkce, která je daleko univerzálnějším řešením, dokáže vypsat jakoukoliv hodnotu a to i tam, kde echo nestačí.
+	- [ ] e) Prohlížeč po zadání skriptu **var_dump("Adam")** vypíše integer(4) 'Adam'.
+	- [x] f) **Var_dump** je funkce a liší se tím, že kromě samotných dat vypíše i typ, o který se jedná.
+	- [x] g) **Var_dump** - této funkci říkáme **diagnostická**. Jejím účelem je především podat maximální informace o nějakých datech.
+	- [ ] h) Prohlížeč po zadání skriptu **var_dump("Adam")** vypíše varchar(4) "Adam".
+	- [ ] i) **Print_r** - této funkci říkáme **diagnostická**. Jejím účelem je především podat maximální informace o nějakých datech.
+	- [x] j) **Print_r** - hodnota se musí vypisovat do závorek, zatímco u **echa** se závorky používat nemusejí, ale mohou.
+
+7. Který ze zdrojových kódů obsahu tzv. syntaci heredoc?
+
+	- [x] a) 
+		```php
+		<?php
+			$text = <<<MMM
+			Toto je příklad
+			dlouhého řetězce
+			na více řádků...
+			MMM;
+			echo $text;
+		?>
+		```
+	- [ ] b) 
+		```php
+		<?php
+			echo "Tady je příklad použití syntaxe heredoc \" a text dále pokračuje.";
+		?>
+		```
+	- [ ] c) 
+		```php
+		<?php
+			echo "Tady je příklad použití syntaxe heredoc \\" a text dále pokračuje.";
+		?>
+		```
+		
+7. Který z následujících zdrojových kódů obsahuje chybu?
+
+	- [ ] a) 
+		```php
+		<?php
+			echo "Tady bude <span style='color: red;'>červený text</span>- <br> Další text na novém řádku.";
+		?>
+		```
+	- [ ] b) 
+		```php
+		<?php
+			echo 'Tady bude <span style="color: red;">červený text</span>- <br> Další text na novém řádku.';
+		?>
+		```
+	- [x] c) 
+		```php
+		<?php
+			echo 'Tady bude <span style='color: red;'>červený text</span>- <br> Další text na novém řádku.';
+		?>
+		```
