@@ -4,7 +4,9 @@
 - [BOOTSTRAP WEB PART I](#BOOTSTRAP_WEB_PART_I)
 
 ## [^](#Overview)BOOTSTRAP WEB PART I
-<img src="images/bootstrap_web_I_part_I.png">
+<p align="center">
+    <img src="images/bootstrap_web_I_part_I.png" width="700px">
+</p>
 
 HTML
 ```html
