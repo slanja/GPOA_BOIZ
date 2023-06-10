@@ -5,6 +5,8 @@ Onenote was created by Tomáš Jelínek, then other people contributed to this o
 
 `Thank you Tom <3`
 
+<img scr="JJ.jpeg" width="150"> `Neberte drogy, a když už, tak ne tvrdé. A když tvrdé, tak si to nepíchhejte. A když už, mějte sterilní stříkačky a jehly`
+
 ### IT Subjects
 <details>
 <summary>WEB</summary>
