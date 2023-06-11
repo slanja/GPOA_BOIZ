@@ -10,7 +10,7 @@
 - [HTML + CSS](#HTML-CSS)
 - [PHP I](#PHP-I)
 - [PHP II](#PHP-II)
-
+- [PHP III](#PHP-III)
 
 ### [^](#Overview)HTML I
 1. Jak se do zdroje HTML zadávají speciální znaky jako je ©?
@@ -492,3 +492,39 @@
 			echo 'Tady bude <span style='color: red;'>červený text</span>- <br> Další text na novém řádku.';
 		?>
 		```
+
+### [^](#Overview)PHP III
+1. Z tohoto kódu je patrné že: (vyberte správnou odpověď)
+
+	```php
+	$a = 'ABCDE';
+	$a[2] = 'x';
+	```
+
+	- [ ] a) písmeno B bude nahrazeno písmenem x
+	- [x] b) písmeno C bude nahrazeno písmenem x
+	- [ ] c) písmeno D bude nahrazeno písmenem x
+
+2. Co je proměnná a jak ji značíme.
+
+	```
+	proměná je název nebo písmeno, které má hodnotu, kterou jí připíšeme a v PHP před její název dáváme $
+	```
+	
+3. Jak se v PHP dají spojovat texty nebo proměnné?
+	
+	- [ ] a) Tečkou nebo středníkem.
+	- [x] b) Tečkou.
+
+4. Vyberte **jen správné** odpovědi:
+
+	- [ ] a) Název proměnné nesmí začínat číslicí ani podtržitkem.
+	- [x] b) Vkládání hodnot do proměnné se nazývá přiřazování hodnot proměnné.
+	- [x] c) Pokud potřebujeme určitou proměnnou zrušit, použijeme tzv. konstrukci unset.
+	- [ ] d) PHP je programovacím jazykem, který je tzv. "Noncase sensitive", neboli není citlivý na velká či malá písmena. Neplatí to však u názvů souborů a složek.
+	- [ ] e) Vkládání hodnot do proměnné se nazývá escape sekvence.
+	- [x] f) Proměnné se mohou během programu měnit.
+	- [x] g) Název proměnné nesmí začínat číslicí.
+	- [ ] h) Proměnné se nemohou během programu měnit.
+	- [x] i) PHP je programovacím jazykem, který je tzv. "Case sensitive", neboli je citlivý na velká či malá písmena.
+	- [ ] j) Pokud potřebujeme určitou proměnnou zrušit, použijeme tzv. syntaxi heredoc.
