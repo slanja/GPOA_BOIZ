@@ -15,9 +15,9 @@ Onenote was created by Tomáš Jelínek, then other people contributed to this o
 </details>
 
 <details>
-<summary>
-  <a href="https://github.com/slanja/GPOA_AGP">AGP</a>
-</summary>
+<summary>AGP</summary>
+
+   - <a href="https://github.com/slanja/GPOA_AGP">AGP_PRACTICE</a>
 </details>
 
 ### ET CETERA
