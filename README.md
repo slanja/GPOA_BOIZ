@@ -29,3 +29,12 @@ Onenote was created by Tomáš Jelínek, then other people contributed to this o
   - <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/ET_CETERA/CEJ/Jansky/LITERATURE.md">LITERATURE</a>
   </details>
 </details>
+
+<details>
+<summary>ANJ</summary>
+  <details>
+  <summary>Bastlová</summary>
+
+  - <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/ET_CETERA/ANJ/Bastlova/MATERIALS.md">STUDY_MATERIALS</a>
+  </details>
+</details>
