@@ -1,4 +1,4 @@
-This is collection of notes from original file `boys` from onenote. So I want to thank my friends for collecting all of this, thank you.
+This is collection of notes from original file `boys` from onenote. So I want to thank my friends and all collaborators for collecting all of this, thank you.
 
 ## Onenote Boys
 Onenote was created by Tomáš Jelínek, then other people contributed to this onenote. Gradually, the onenote was filled with materials and tests, thanks to the people Tom mentioned in his thanks on the official onenote, namely Lukáš Veselý, Hana Ludvíková, Petr Michálek, Štěpán Dušek, Tomáš Burnek (Franta) and Ivo Žák.   When Tom invited me to the onenotes, they were already competing with Kudláček's materials on Bart. I would like to thank Tom for inviting me to `Boys`, so I could retrieve from Boys and create a clear GitHub edition of `boiz`.
