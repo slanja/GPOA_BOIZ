@@ -8,6 +8,75 @@
     <img src="images/bootstrap_web_I_part_I.png" width="700px">
 </p>
 
+<details>
+<summary>ZADANI</summary>
+    <div>
+      <div>
+        <div>
+          <p>
+            <b>Vytvořte webové stránky dle následujícího zadání:</b>
+          </p>
+          <p></p>
+          <ol>
+            <li>celý web bude obsahovat 4 jednotlivé webové stránky: <br>
+            </li>
+            <ol>
+              <li>Titulní strana</li>
+              <li>Reference</li>
+              <li>Přesměrování</li>
+              <li>a Kontakt</li>
+            </ol>
+            <li>v této části úkolu vytvoříte pouze první z uvedených stránek - index.html.</li>
+            <li>web bude uložen ve vámi vytvořeném adresáři (složce) ve vašem FTP prostoru (název je libovolný) a veškeré další soubory či podsložky budou v tomto adresáři. Konkrétní názvy souborů či složek tvořící tyto stránky si zvolte libovolně dle vlastního uvážení, <b>ale jejich názvy musí odpovídat syntaxi HTML</b>. <br>
+            </li>
+            <li>pokud není zadáno jinak, použijte původní defaultní barvy, fonty či další nastavení prvků či atributů frameworku Bootstrap verze 4, který bude na web napojen</li>
+            <li>nejprve si vytvořte Titulní stranu, kterou vytvořte tak, aby byla ve verzi HTML 5 a byla "napojena" na framework Bootstrap, verze 4. Titulní strana tvoří startovací stránku webu.</li>
+            <li>doplňte metatag "title" vaším jménem a příjmením. Ostatní metatagy nemusíte vyplňovat, pokud není dále stanoveno jinak.</li>
+            <li>web bude také "napojen" na externí stylopis, do kterého budou vkládány všechny CSS styly. Jeho název a umístění si zvolte sami</li>
+            <li>metatag pro favikonu upravte tak, aby web načítal jako favikonu <a href="https://moodle.gpoa.cz/pluginfile.php/9721/mod_assign/intro/favikona.ico" target="_blank">tento soubor (klikněte pro stažení)</a>: <br>
+              <br>
+            </li>
+            <li>dále vytvořte základní "obal" stránky za pomoci "kontejneru" (container). Do tohoto "obalu" stránky budete vkládat vše, co bude v hlavní obsahové části webu</li>
+            <li>jako první vytvořte v horní části "jumbotron". V něm bude nadpisem nejvyšší úrovně vytvořen text "Vaše jméno a Příjmení" a dále normálním odstavcem text "Samostatný úkol na známky". Dále bude mít nastaven vnější <b>horní</b> okraj na 15px: <br>
+              <br>
+            </li>
+            <li>do kontejneru nyní vložte menu. Využijte k tomu "Navbar" (verze Colored Navbar) - tmavou variantu, konkrétně s pozadím "bg-dark": <br>
+            </li>
+            <li>jednotlivé položky menu budou: <br>
+            </li>
+            <ol>
+              <li>Titulní strana</li>
+              <li>Reference</li>
+              <li>Přesměrování</li>
+              <li>Kontakt</li>
+            </ol>
+            <li>položky menu budou směřovat na soubory, které si následně budete vytvářet. Jejich název zvolte dle vlastního uvážení (jak již bylo uvedeno).&nbsp; Nyní bude funkční pouze startovací stránka webu. Ostatní zatím ne.</li>
+            <li>dále vytvořte slider (carousel), který bude mít tyto tři obrázky - <a href="https://moodle.gpoa.cz/pluginfile.php/9721/mod_assign/intro/slider1.jpg" target="_blank">slider1</a>, <a href="https://moodle.gpoa.cz/pluginfile.php/9721/mod_assign/intro/slider2.jpg" target="_blank">slider2</a> a <a href="https://moodle.gpoa.cz/pluginfile.php/9721/mod_assign/intro/slider3.jpg" target="_blank">slider3</a>. Uložte si je do samostatné složky (název dle vlastního uvážení) <br>
+              <br>
+            </li>
+            <li>jednotlivé snímky slideru (carouselu) nebudou mít žádné další popisky ani podtexty (tedy použijte základní - defaultní typ)</li>
+            <li>dále vytvořte hlavní část (obsah) webu, který bude rozdělen na dvě stejné poloviny. Levá polovina bude mít nadpis druhé nejvyšší úrovně "O nás" a pravá bude mít také nadpis druhé nejvyšší úrovně "Nabízíme". Do obou těchto polovin vložte shodně text vygenerovaný Lorem Ipsum generátorem a to s parametry - 3 odstavce, 20-30 slov z českého zásobníku slov: <br>
+              <br>
+            </li>
+            <li>dále vytvořte zápatí a to za pomoci "row" a "col" (šířka přes celý kontejner). Barva pozadí této části bude "bg-info". Text bude vystředěn za pomoci třídy frameworku a bude vytvořen nadpisem 4. úrovně a to vaše jméno, příjmení a rok: <br>
+              <br>
+              <br>
+            </li>
+            <li>nyní uvedenou webovou stránku uložte do vašeho FTP prostoru do libovolného nového adresáře <b>(jak již bylo zmíněno)</b>. <b>Adresu (odkaz) na tento web vložte jako výsledek vaší práce zde do systému Moodle níže jako aktivní "klikatelný" odkaz, který se otevře v novém okně.</b> Stránka by měla vypadat ve výsledku takto: <br>
+              <br>
+            </li>
+            <li>
+              <b>Po odevzdání (a uložení) si vyzkoušejte kliknutím, že tento odkaz funguje!</b>
+            </li>
+          </ol>
+          <p></p>
+        </div>
+      </div>
+    </div>
+</details>
+
+
+
 HTML
 ```html
 <!DOCTYPE html>
