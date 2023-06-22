@@ -41,3 +41,7 @@ Onenote was created by Tomáš Jelínek, then other people contributed to this o
   - <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/ET_CETERA/ANJ/Bastlova/MATERIALS.md">STUDY_MATERIALS</a>
   </details>
 </details>
+
+### slanja's notes
+
+- <a href="https://github.com/slanja/GPOA_BOYZ/blob/main/SLANJA/WEB.md">WEB</a>
