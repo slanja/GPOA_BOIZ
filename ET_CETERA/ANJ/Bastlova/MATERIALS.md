@@ -20,17 +20,11 @@ $ dollar's
 ## Present simple
 - děj se opakuje, vyjadřuje nějáké zvyklosti, to co obvykle děláme
 
-### (+)     
-- I work    
-- He works    
+**(+)** I work | He works    
 
-### (?)   
-- Do you work?    
-- Does it work?   
+**(?)** Do you work? | Does it work?   
 
-### (-)   
-- I don't work    
-- She doesn't work
+**(-)** I don't work | She doesn't work
 
 ## Present continuous
 - právě teď `We are writing now.`
